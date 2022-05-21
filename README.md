@@ -1,6 +1,8 @@
 # JATE: Text Editor
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Screenshot](/.github/images/screenshot.png)
+
 ## Description:
 JATE is a text editor that runs in you browser. Built as a progressive web application, JATE uses a number of data persistence techniques that serve as redunancy in case one of the options is not supported by the browser. Additionally, JATE will function offline.
 
