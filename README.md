@@ -19,7 +19,7 @@ The MIT License
 Clone the repository to your local system, install npm dependencies and run webpack plugins.
 
 ## Usage:
-Visit the deployed application to use the text editor. Additionally, users can choose to download the application as a desktop icon.
+Visit the [deployed application](https://squirrels-in-my-backyard.herokuapp.com/) to use the text editor. Additionally, users can choose to download the application as a desktop icon.
 
 ## How to Contribute:
 Please contact me via Github or Email.
